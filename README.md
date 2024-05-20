@@ -43,6 +43,8 @@ One key to project success is correctly defining and delimiting projects accordi
 
 ## 📝Instructions
 
-1. Write the user stories of the product backlog of your final project. Remember that this list of user stories corresponds to the general features of the project, which will later be specified as tasks throughout the scrums.
+1. Create a project in [Github Project](https://docs.github.com/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project) and add your teammates. This is where the user stories of your product backlog should be. When all team members agree on the content of the stories and the scope of the project.
+  
+2. Write the user stories of the product backlog of your final project. Remember that this list of user stories corresponds to the general features of the project, which will later be specified as tasks throughout the scrums.
 
-2. Create a project in [Github Project](https://docs.github.com/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project) and add your teammates. This is where the user stories of your product backlog should be. When all team members agree on the content of the stories and the scope of the project.
+
