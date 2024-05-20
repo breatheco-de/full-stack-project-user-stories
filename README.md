@@ -12,6 +12,8 @@ Under the guidance of your mentor you will form your project team. **Ideally, th
 
 The goal is for teams to successfully reach the end of the project, combining **interest in the project** and **ability to develop interesting features** in the best possible way.
 
+> 🔥 It is important to work on convincing your teammates to join your project, after all projects are group projects and not all ideas will be realized, all members must compromise on some ideas to achieve the best for the team.
+
 ## Project Scope
 
 One of the keys to the success of projects is that they are correctly defined and delimited according to the time available, the expected dedication and the team's capabilities.

@@ -12,6 +12,8 @@ Bajo la indicación de tu mentor/a formarás tu equipo de proyecto. **Lo ideal e
 
 El objetivo es que los equipos puedan alcanzar exitosamente el final del proyecto, combinando el **interés por el proyecto** y la **capacidad para desarrollar características interesantes** de la mejor manera posible.
 
+> 🔥 Es importante trabajar en convencer a tus compañeros de unirse a tu proyecto, después de todo los proyectos son en grupo y no todas las ideas se van a realizar, todos los integrantes deben ceder en algunas ideas para lograr lo mejor para el equipo.
+
 ## Alcance del proyecto
 
 Una de las claves del éxito de los proyectos es que estén correctamente definidos y acotados en función del tiempo disponible, la dedicación prevista y las capacidades del equipo.

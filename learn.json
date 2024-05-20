@@ -19,6 +19,6 @@
 			"us": "Once you have finished defining the user stories for your project, paste the URL of the Github Project here and set its visibility to 'Public' so it can be seen by everyone.",
 			"es": "Una vez que hayas terminado de definir las historias de usuario para tu proyecto, pega aquí la URL del Github Project y establece su visibilidad a 'Público' para que pueda ser visto por todos."
 		},
-		"formats": ["application/octet-stream,.pka"]
+		"formats": ["url"]
 	}
 }
