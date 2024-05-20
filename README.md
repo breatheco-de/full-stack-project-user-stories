@@ -1,6 +1,6 @@
 ---
 title: "How to start your final project?"
-subtitle: "Discover key considerations and avoid common mistakes when choosing your final project. Learn from these experienced tips to ensure success in your project journey."
+description: "Discover key considerations and avoid common mistakes when choosing your final project. Learn from these experienced tips to ensure success in your project journey."
 tags: ["project", "employment"]
 authors: ["arnaldoperez"]
 
@@ -8,7 +8,7 @@ authors: ["arnaldoperez"]
 
 ## How to start?
 
-Under the guidance of your mentor you will form your project team. **Ideally, they should be teams of 3 people**, looking for motivation for the project to be carried out and the ability to collaborate. If you are learning on your own, it is advisable to search in online communities for other people with whom to do this type of projects and who are aligned with learning and improving their programming skills like you.
+Under the guidance of your mentor you will form your project team. **Ideally, they should be teams of 3 people**, looking for motivation for the project to be carried out and the ability to collaborate. If you are learning on your own, it is advisable to look in online communities for other people to team up and do this type of projects and who are aligned with learning and improving their programming skills like you.
 
 The goal is for teams to successfully reach the end of the project, combining **interest in the project** and **ability to develop interesting features** in the best possible way.
 

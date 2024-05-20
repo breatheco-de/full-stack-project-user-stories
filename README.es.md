@@ -1,6 +1,6 @@
 ---
 title: "¿Cómo empezar tu proyecto final?"
-subtitle: "Descubre las consideraciones clave y evita errores comunes al elegir tu proyecto final. Aprende de estos consejos experimentados para asegurar el éxito en tu trayectoria de proyecto."
+description: "Descubre las consideraciones clave y evita errores comunes al elegir tu proyecto final. Aprende de estos consejos experimentados para asegurar el éxito en tu trayectoria de proyecto."
 tags: ["project", "empleo"]
 authors: ["arnaldoperez"]
 
