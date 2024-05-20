@@ -10,7 +10,9 @@ authors: ["arnaldoperez"]
 
 ## ¿Cómo empezar?
 
-Bajo la indicación de tu mentor/a formarás tu equipo de proyecto. **Lo ideal es que sean equipos de 3 personas**, buscando que también exista motivación por el proyecto a realizar y capacidad de colaboración. Si te encuentras aprendiendo por tu cuenta, es recomendable buscar en comunidades en línea otra gente con quien realizar este tipo de proyectos y que estén alineados con aprender y mejorar sus habilidades en programación al igual que tu.
+Bajo la indicación de tu mentor/a formarás tu equipo de proyecto. **Lo ideal es que sean equipos de 3 personas**, buscando que también exista motivación por el proyecto a realizar y capacidad de colaboración. 
+
+Si vas a realizar el proyecto solo (no te lo recomendamos),busca en comunidades en línea otra gente con quien realizar este tipo de proyectos y que estén alineados con aprender y mejorar sus habilidades en programación al igual que tu.
 
 El objetivo es que los equipos puedan alcanzar exitosamente el final del proyecto, combinando el **interés por el proyecto** y la **capacidad para desarrollar características interesantes** de la mejor manera posible.
 
@@ -20,7 +22,7 @@ El objetivo es que los equipos puedan alcanzar exitosamente el final del proyect
 
 Una de las claves del éxito de los proyectos es que estén correctamente definidos y acotados en función del tiempo disponible, la dedicación prevista y las capacidades del equipo.
 
-> Si no se define bien el alcance del proyecto, resultará en una percepción negativa por parte del equipo, por no alcanzar el objetivo, generando frustración y desilusión.
+> 💡 70% de los proyectos de codigo fallan por requerimientos mal hechos. Si no se define bien el alcance del proyecto, resultará en una percepción negativa por parte del equipo, por no alcanzar el objetivo, generando frustración y desilusión.
 
 ### ☑️ Un proyecto final exitoso debe incluir
 
@@ -43,6 +45,6 @@ Una de las claves del éxito de los proyectos es que estén correctamente defini
 
 ## 📝Instrucciones
 
-Escribe las historias de usuario del backlog del producto de tu proyecto final. Recuerda que esta lista de historias de usuarios corresponde a las características generales del proyecto, que después serán especificadas como tareas a lo largo de los scrums.
+1. Crea un proyecto en [Github Project](https://docs.github.com/es/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project) y agrega a tus compañeros de equipo. Allí es donde deberán estar las historias de usuario de tu product backlog. Cuando todos los miembros del equipo estén de acuerdo con el contenido de las historias y el alcance del proyecto.
 
-Crea un proyecto en [Github Project](https://docs.github.com/es/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project) y agrega a tus compañeros de equipo. Allí es donde deberán estar las historias de usuario de tu product backlog. Cuando todos los miembros del equipo estén de acuerdo con el contenido de las historias y el alcance del proyecto.
+2. Escribe las historias de usuario del backlog del producto de tu proyecto final. Recuerda que esta lista de historias de usuarios corresponde a las características generales del proyecto, que después serán especificadas como tareas a lo largo de los scrums.
