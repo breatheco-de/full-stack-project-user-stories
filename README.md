@@ -6,6 +6,8 @@ authors: ["arnaldoperez"]
 
 ---
 
+![Fullstack Project](https://storage.googleapis.com/breathecode-asset-images/d866be3d7f338844c8a66e6fa94190ebe8ef5912f889c4b3f5923864f9b64ebc.png?raw=true)
+
 ## How to start?
 
 Under the guidance of your mentor you will form your project team. **Ideally, they should be teams of 3 people**, looking for motivation for the project to be carried out and the ability to collaborate. If you are learning on your own, it is advisable to look in online communities for other people to team up and do this type of projects and who are aligned with learning and improving their programming skills like you.
