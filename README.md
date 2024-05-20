@@ -8,17 +8,19 @@ authors: ["arnaldoperez"]
 
 ## How to start?
 
-Under the guidance of your mentor you will form your project team. **Ideally, they should be teams of 3 people**, looking for motivation for the project to be carried out and the ability to collaborate. If you are learning on your own, it is advisable to look in online communities for other people to team up and do this type of projects and who are aligned with learning and improving their programming skills like you.
+Under the guidance of your mentor, you will form your project team. **Ideally, they should be teams of 3 people**, looking for motivation for the project to be carried out and the ability to collaborate. 
+
+If you are working solo (strongly not recommended), it is advisable to look in online communities for other people who are aligned with learning and improving their programming skills like you and who are willing to team up and do this type of project.
 
 The goal is for teams to successfully reach the end of the project, combining **interest in the project** and **ability to develop interesting features** in the best possible way.
 
-> 🔥 It is important to work on convincing your teammates to join your project, after all projects are group projects and not all ideas will be realized, all members must compromise on some ideas to achieve the best for the team.
+> 🔥 It is great to work on convincing your classmates to join your project, but, keep in mind that you will dramatically learn more by working with someone else (in a group); even if you are not building your own idea, all members must compromise on some ideas to achieve the best for the team.
 
 ## Project Scope
 
-One of the keys to the success of projects is that they are correctly defined and delimited according to the time available, the expected dedication and the team's capabilities.
+One key to project success is correctly defining and delimiting projects according to the available time, the expected dedication, and the team's capabilities.
 
-> If the scope of the project is not well defined, it will result in a negative perception by the team for not achieving the objective, generating frustration and disillusionment.
+> 💡 In real life, 70% of coding projects fail because of bad requirements. If the project's scope is not well defined, the team will perceive the failure to achieve the objective negatively, generating frustration and disillusionment.
 
 ### ☑️ A successful final project must include
 
@@ -41,6 +43,6 @@ One of the keys to the success of projects is that they are correctly defined an
 
 ## 📝Instructions
 
-Write the user stories of the product backlog of your final project. Remember that this list of user stories corresponds to the general features of the project, which will later be specified as tasks throughout the scrums.
+1. Write the user stories of the product backlog of your final project. Remember that this list of user stories corresponds to the general features of the project, which will later be specified as tasks throughout the scrums.
 
-Create a project in [Github Project](https://docs.github.com/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project) and add your teammates. This is where the user stories of your product backlog should be. When all team members agree on the content of the stories and the scope of the project.
+2. Create a project in [Github Project](https://docs.github.com/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project) and add your teammates. This is where the user stories of your product backlog should be. When all team members agree on the content of the stories and the scope of the project.
