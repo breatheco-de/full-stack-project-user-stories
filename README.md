@@ -8,7 +8,9 @@ authors: ["arnaldoperez"]
 
 ![Fullstack Project](https://storage.googleapis.com/breathecode-asset-images/d866be3d7f338844c8a66e6fa94190ebe8ef5912f889c4b3f5923864f9b64ebc.png?raw=true)
 
-## How to start?
+<onlyfor saas="true" withBanner="true">
+
+## 🌱 How to start this project?
 
 Under the guidance of your mentor, you will form your project team. **Ideally, they should be teams of 3 people**, looking for motivation for the project to be carried out and the ability to collaborate. 
 
@@ -17,6 +19,8 @@ If you are working solo (strongly not recommended), it is advisable to look in o
 The goal is for teams to successfully reach the end of the project, combining **interest in the project** and **ability to develop interesting features** in the best possible way.
 
 > 🔥 It is great to work on convincing your classmates to join your project, but, keep in mind that you will dramatically learn more by working with someone else (in a group); even if you are not building your own idea, all members must compromise on some ideas to achieve the best for the team.
+
+</onlyfor>
 
 ## Project Scope
 
