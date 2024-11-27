@@ -8,7 +8,9 @@ authors: ["arnaldoperez"]
 
 ![Fullstack Project](https://storage.googleapis.com/breathecode-asset-images/d866be3d7f338844c8a66e6fa94190ebe8ef5912f889c4b3f5923864f9b64ebc.png?raw=true)
 
-## ¿Cómo empezar?
+<onlyfor saas="false" withBanner="false">
+
+## 🌱 ¿Cómo iniciar este proyecto?
 
 Bajo la indicación de tu mentor/a formarás tu equipo de proyecto. **Lo ideal es que sean equipos de 3 personas**, buscando que también exista motivación por el proyecto a realizar y capacidad de colaboración. 
 
@@ -17,6 +19,8 @@ Si vas a realizar el proyecto solo (no te lo recomendamos),busca en comunidades 
 El objetivo es que los equipos puedan alcanzar exitosamente el final del proyecto, combinando el **interés por el proyecto** y la **capacidad para desarrollar características interesantes** de la mejor manera posible.
 
 > 🔥 Es importante trabajar en convencer a tus compañeros de unirse a tu proyecto, después de todo los proyectos son en grupo y no todas las ideas se van a realizar, todos los integrantes deben ceder en algunas ideas para lograr lo mejor para el equipo.
+
+</onlyfor>
 
 ## Alcance del proyecto
 
